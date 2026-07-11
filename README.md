@@ -6,7 +6,7 @@ Página desenvolvida como apoio à defesa do Trabalho de Conclusão de Curso int
 
 ## Acesso à apresentação
 
-[🔗 Acessar a página publicada no GitHub Pages](https://walfredo95.github.io/Treegraph-API-de-Portabilidade-de-Dados/)
+[🔗 Treegraph — API de Portabilidade de Dados](https://walfredo95.github.io/Treegraph-API-de-Portabilidade-de-Dados/)
 
 ## Sobre a pesquisa
 
